@@ -1,3 +1,5 @@
+test action
+
 # Run GitHub CI in VirtualBox via Vagrant
 
 Use this action to run your CI in `FreeBSD`, `OpenBSD`, `NetBSD`, etc.
